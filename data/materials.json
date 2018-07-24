@@ -1,0 +1,20 @@
+[
+  {
+    "title": "High Performance Python",
+    "instructor": "Ariel Rokem",
+    "repo": "https://github.com/neurohackademy/high-performance-python",
+    "date": "8/1/2018",
+    "time": "17:00",
+    "duration": 60,
+    "desc": "A review of tools and techniques for performance optimization of Python code."
+  },
+  {
+    "title": "Neural Networks in Python",
+    "instructor": "Ariel Rokem",
+    "repo": "https://github.com/neurohackademy/neural-networks",
+    "date": "7/31/2018",
+    "time": "17:00",
+    "duration": 60,
+    "desc": "An introduction to packages for building and applying neural network models in Python."
+  }
+]
