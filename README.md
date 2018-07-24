@@ -16,6 +16,7 @@ This repository contains (or will eventually contain) links and descriptions of 
 
 
 ## Materials
+
 #### <a id="bl1"></a>High Performance Python
 
 **Instructor**: Ariel Rokem
@@ -26,7 +27,8 @@ This repository contains (or will eventually contain) links and descriptions of 
 
 A review of tools and techniques for performance optimization of Python code.
 
-<a id="bl2"></a>Neural Networks in Python
+
+#### <a id="bl2"></a>Neural Networks in Python
 
 **Instructor**: Ariel Rokem
 
