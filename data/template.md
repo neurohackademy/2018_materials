@@ -10,7 +10,7 @@ This repository contains (or will eventually contain) links and descriptions of 
 
 
 ## Materials
-{% for bl in blocks %}<a id="bl{{loop.index}}"></a>#### {{bl.title}}
+#### {% for bl in blocks %}<a id="bl{{loop.index}}"></a>{{bl.title}}
 
 **Instructor**: {{bl.instructor}}
 
