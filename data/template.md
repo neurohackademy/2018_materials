@@ -11,7 +11,7 @@ This repository contains (or will eventually contain) links and descriptions of 
 
 ## Materials
 {% for bl in blocks %}
-#### <a id="bl{{loop.index}}"></a>{{bl.title}}
+### <a id="bl{{loop.index}}"></a>{{bl.title}}
 
 **Instructor**: {{bl.instructor}}
 
@@ -20,5 +20,5 @@ This repository contains (or will eventually contain) links and descriptions of 
 {% if bl.date %}**Date/time**: {{bl.date}}, {{bl.time}}
 {% endif %}
 {{bl.desc}}
-
+---
 {% endfor %}
