@@ -9,6 +9,9 @@ template = Template(template)
 sections = json.load(open(join(data_dir, 'sections.json')))
 data = json.load(open(join(data_dir, 'materials.json')))
 
+# Sort entries by date/time
+data = sorted(data, key=lambda x: (x['date'], x['time']))
+
 md = template.render(sections=sections, blocks=data)
 
 readme = open(join(dirname(__file__), '..', 'README.md'), 'w')
