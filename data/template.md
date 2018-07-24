@@ -20,5 +20,6 @@ This repository contains (or will eventually contain) links and descriptions of 
 {% if bl.date %}**Date/time**: {{bl.date}}, {{bl.time}}
 {% endif %}
 {{bl.desc}}
+
 ---
 {% endfor %}

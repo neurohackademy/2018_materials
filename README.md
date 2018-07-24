@@ -26,6 +26,7 @@ This repository contains (or will eventually contain) links and descriptions of 
 **Date/time**: 8/1/2018, 17:00
 
 A review of tools and techniques for performance optimization of Python code.
+
 ---
 
 ### <a id="bl2"></a>Neural Networks in Python
@@ -37,4 +38,5 @@ A review of tools and techniques for performance optimization of Python code.
 **Date/time**: 7/31/2018, 17:00
 
 An introduction to packages for building and applying neural network models in Python.
+
 ---
