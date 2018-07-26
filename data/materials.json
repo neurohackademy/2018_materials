@@ -16,5 +16,16 @@
     "time": "17:00",
     "duration": 60,
     "desc": "An introduction to packages for building and applying neural network models in Python."
+  },
+  {
+    "title": "Cloud computing with AWS",
+    "instructor": "Amanda Tan and Ariel Rokem",
+    "repo": "https://github.com/neurohackademy/cloud101_aws",
+    "date": "08/02/2018",
+    "time": "09:00",
+    "duration": 180,
+    "desc": "An introduction to cloud computing with examples using Amazon Web Services"
   }
+
+
 ]

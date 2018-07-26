@@ -40,3 +40,15 @@ An introduction to packages for building and applying neural network models in P
 A review of tools and techniques for performance optimization of Python code.
 
 ---
+
+### <a id="bl3"></a>Cloud computing with AWS
+
+**Instructor**: Amanda Tan and Ariel Rokem
+
+**Repository**: [https://github.com/neurohackademy/cloud101_aws](https://github.com/neurohackademy/cloud101_aws)
+
+**Date/time**: 08/02/2018, 09:00
+
+An introduction to cloud computing with examples using Amazon Web Services
+
+---
