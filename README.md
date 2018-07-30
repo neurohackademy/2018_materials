@@ -5,19 +5,31 @@ This repository contains (or will eventually contain) links and descriptions of 
 ## Table of Contents
 
 * Day 1
-
+	* [Introduction to Neurohackademy](#bl1)
 
 * Day 2
-	* [Neural Networks in Python](#bl1)
+	* [Neural Networks in Python](#bl2)
 
 * Day 3
-	* [High Performance Python](#bl2)
+	* [High Performance Python](#bl3)
 
 
 
 ## Materials
 
-### <a id="bl1"></a>Neural Networks in Python
+### <a id="bl1"></a>Introduction to Neurohackademy
+
+**Instructor**: Ariel Rokem
+
+**Repository**: [https://neurohackademy.github.io/introduction-to-nh/](https://neurohackademy.github.io/introduction-to-nh/)
+
+**Date/time**: 07/30/2018, 9:00
+
+Setting the stage, and explaining what will happen in the next couple of weeks
+
+---
+
+### <a id="bl2"></a>Neural Networks in Python
 
 **Instructor**: Ariel Rokem
 
@@ -29,7 +41,7 @@ An introduction to packages for building and applying neural network models in P
 
 ---
 
-### <a id="bl2"></a>High Performance Python
+### <a id="bl3"></a>High Performance Python
 
 **Instructor**: Ariel Rokem
 
@@ -41,7 +53,7 @@ A review of tools and techniques for performance optimization of Python code.
 
 ---
 
-### <a id="bl3"></a>Cloud computing with AWS
+### <a id="bl4"></a>Cloud computing with AWS
 
 **Instructor**: Amanda Tan and Ariel Rokem
 
