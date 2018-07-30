@@ -13,6 +13,27 @@ This repository contains (or will eventually contain) links and descriptions of 
 * Day 3
 	* [High Performance Python](#bl2)
 
+* Day 4
+	* [Cloud computing with AWS](#bl3)
+
+* Day 5
+
+
+* Day 6
+
+
+* Day 7
+
+
+* Day 8
+
+
+* Day 9
+
+
+* Day 10
+
+
 
 
 ## Materials
