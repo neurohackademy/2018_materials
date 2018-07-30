@@ -1,5 +1,14 @@
 [
   {
+    "title": "Introduction to Neurohackademy",
+    "instructor": "Ariel Rokem",
+    "repo": "https://neurohackademy.github.io/introduction-to-nh/",
+    "date": "07/30/2018",
+    "time": "9:00",
+    "duration": 60,
+    "desc": "Setting the stage, and explaining what will happen in the next couple of weeks"
+  },
+  {
     "title": "High Performance Python",
     "instructor": "Ariel Rokem",
     "repo": "https://github.com/neurohackademy/high-performance-python",
@@ -26,4 +35,6 @@
     "duration": 180,
     "desc": "An introduction to cloud computing with examples using Amazon Web Services"
   }
+
+
 ]
