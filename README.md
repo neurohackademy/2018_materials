@@ -2,7 +2,7 @@
 
 This repository contains (or will eventually contain) links and descriptions of all publicly shareable materials, code, data, etc. used by instructors at Neurohackademy 2018. The ordering of lectures and tutorials roughly follows the chronology of the course.
 
-## Table of Contents
+# Table of Contents
 * Day 1
 	* [Introduction to Neurohackademy](#bl1)
 	* [Reproducibility in fMRI: What is the problem?](#bl2)
@@ -37,9 +37,12 @@ This repository contains (or will eventually contain) links and descriptions of 
 
 
 
-## Materials
+# Presentation Descriptions
+
+## Day 1
 
 ### <a id="bl1"></a>Introduction to Neurohackademy
+Setting the stage, and explaining what will happen in the next couple of weeks
 
 **Instructor**: Ariel Rokem
 
@@ -48,11 +51,11 @@ This repository contains (or will eventually contain) links and descriptions of 
 
 **Date/time**: 07/30/2018, 09:00
 
-Setting the stage, and explaining what will happen in the next couple of weeks
 
 ---
 
 ### <a id="bl2"></a>Reproducibility in fMRI: What is the problem?
+A review of barriers to reproducible neuroimaging research, and some potential solutions.
 
 **Instructor**: Russ Poldrack
 
@@ -60,11 +63,11 @@ Setting the stage, and explaining what will happen in the next couple of weeks
 
 **Date/time**: 07/30/2018, 10:30
 
-A review of barriers to reproducible neuroimaging research, and some potential solutions.
 
 ---
 
 ### <a id="bl3"></a>Git/Github
+A tutorial on version control using git and GitHub.
 
 **Instructor**: Bernease Herman
 
@@ -72,11 +75,11 @@ A review of barriers to reproducible neuroimaging research, and some potential s
 
 **Date/time**: 07/30/2018, 13:00
 
-A tutorial on version control using git and GitHub.
 
 ---
 
 ### <a id="bl4"></a>Docker for Scientists
+An introduction to Docker and other containerization technologies.
 
 **Instructor**: Chris Gorgolewski
 
@@ -86,11 +89,11 @@ A tutorial on version control using git and GitHub.
 
 **Date/time**: 07/30/2018, 13:00
 
-An introduction to Docker and other containerization technologies.
 
 ---
 
 ### <a id="bl5"></a>Introduction to R
+An introduction to the R programming language.
 
 **Instructor**: Valentina Staneva
 
@@ -98,11 +101,11 @@ An introduction to Docker and other containerization technologies.
 
 **Date/time**: 07/30/2018, 14:30
 
-An introduction to the R programming language.
 
 ---
 
 ### <a id="bl6"></a>Introduction to Python
+An introduction to the Python programming language.
 
 **Instructor**: Tal Yarkoni
 
@@ -112,11 +115,11 @@ An introduction to the R programming language.
 
 **Date/time**: 07/30/2018, 14:30
 
-An introduction to the Python programming language.
 
 ---
 
 ### <a id="bl7"></a>Software Testing for Scientists
+An overview of software testing practices.
 
 **Instructor**: Chris Gorgolewski
 
@@ -126,11 +129,11 @@ An introduction to the Python programming language.
 
 **Date/time**: 07/30/2018, 16:00
 
-An overview of software testing practices.
 
 ---
 
 ### <a id="bl8"></a>Science: Open for All
+How to practice and promote an inclusionary, welcoming open science.
 
 **Instructor**: Kirstie Whitaker
 
@@ -139,11 +142,47 @@ An overview of software testing practices.
 
 **Date/time**: 07/30/2018, 17:00
 
-How to practice and promote an inclusionary, welcoming open science.
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+## Day 2
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
 
 ---
 
 ### <a id="bl9"></a>Neural Networks in Python
+An introduction to packages for building and applying neural network models in Python.
 
 **Instructor**: Ariel Rokem
 
@@ -152,11 +191,47 @@ How to practice and promote an inclusionary, welcoming open science.
 
 **Date/time**: 07/31/2018, 17:00
 
-An introduction to packages for building and applying neural network models in Python.
+
+---
+
+
+---
+
+
+---
+
+
+## Day 3
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
 
 ---
 
 ### <a id="bl10"></a>High Performance Python
+A review of tools and techniques for performance optimization of Python code.
 
 **Instructor**: Ariel Rokem
 
@@ -165,11 +240,47 @@ An introduction to packages for building and applying neural network models in P
 
 **Date/time**: 08/01/2018, 17:00
 
-A review of tools and techniques for performance optimization of Python code.
+
+---
+
+
+---
+
+
+## Day 4
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
 
 ---
 
 ### <a id="bl11"></a>Cloud computing with AWS
+An introduction to cloud computing with examples using Amazon Web Services
 
 **Instructor**: Amanda Tan and Ariel Rokem
 
@@ -178,6 +289,222 @@ A review of tools and techniques for performance optimization of Python code.
 
 **Date/time**: 08/02/2018, 09:00
 
-An introduction to cloud computing with examples using Amazon Web Services
 
 ---
+
+
+## Day 5
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+## Day 6
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+## Day 7
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+## Day 8
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+## Day 9
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+## Day 10
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
+
+---
+
