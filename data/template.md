@@ -4,7 +4,7 @@ This repository contains (or will eventually contain) links and descriptions of 
 
 # Table of Contents
 {% for sec in sections %}* {{sec.name}}
-{% for bl in blocks %}{% if bl.date == sec.value %}	* [{{bl.title}}](#bl{{loop.index}})
+{% for bl in blocks %}{% if bl.date == sec.value %}	* [{{bl.title}}](#bl{{loop.index}}) ({{bl.instructor}})
 {% endif %}{% endfor %}
 {% endfor %}
 

@@ -4,23 +4,23 @@ This repository contains (or will eventually contain) links and descriptions of 
 
 # Table of Contents
 * Day 1
-	* [Introduction to Neurohackademy](#bl1)
-	* [Reproducibility in fMRI: What is the problem?](#bl2)
-	* [Git/Github](#bl3)
-	* [Docker for Scientists](#bl4)
-	* [Introduction to R](#bl5)
-	* [Introduction to Python](#bl6)
-	* [Software Testing for Scientists](#bl7)
-	* [Science: Open for All](#bl8)
+	* [Introduction to Neurohackademy](#bl1) (Ariel Rokem)
+	* [Reproducibility in fMRI: What is the problem?](#bl2) (Russ Poldrack)
+	* [Git/Github](#bl3) (Bernease Herman)
+	* [Docker for Scientists](#bl4) (Chris Gorgolewski)
+	* [Introduction to R](#bl5) (Valentina Staneva)
+	* [Introduction to Python](#bl6) (Tal Yarkoni)
+	* [Software Testing for Scientists](#bl7) (Chris Gorgolewski)
+	* [Science: Open for All](#bl8) (Kirstie Whitaker)
 
 * Day 2
-	* [Neural Networks in Python](#bl9)
+	* [Neural Networks in Python](#bl9) (Ariel Rokem)
 
 * Day 3
-	* [High Performance Python](#bl10)
+	* [High Performance Python](#bl10) (Ariel Rokem)
 
 * Day 4
-	* [Cloud computing with AWS](#bl11)
+	* [Cloud computing with AWS](#bl11) (Amanda Tan and Ariel Rokem)
 
 * Day 5
 
