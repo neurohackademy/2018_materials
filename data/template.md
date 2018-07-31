@@ -12,8 +12,7 @@ This repository contains (or will eventually contain) links and descriptions of 
 # Presentation Descriptions
 {% for sec in sections %}
 ## {{sec.name}}
-{% for bl in blocks %}{% if bl.date == sec.value %}
-### <a id="bl{{loop.index}}"></a>{{bl.title}}
+{% for bl in blocks %}{% if bl.date == sec.value %}### <a id="bl{{loop.index}}"></a>{{bl.title}}
 {{bl.desc}}
 
 **Instructor**: {{bl.instructor}}
@@ -23,8 +22,8 @@ This repository contains (or will eventually contain) links and descriptions of 
 {% if bl.slides %}**Slides**: [{{bl.slides}}]({{bl.slides}})
 {% endif %}
 {% if bl.date %}**Date/time**: {{bl.date}}, {{bl.time}}
-{% endif %}{% endif %}
+{% endif %}
 
 ---
-{% endfor %}
-{% endfor %}
+
+{% endif %}{% endfor %}{% endfor %}

@@ -40,7 +40,6 @@ This repository contains (or will eventually contain) links and descriptions of 
 # Presentation Descriptions
 
 ## Day 1
-
 ### <a id="bl1"></a>Introduction to Neurohackademy
 Setting the stage, and explaining what will happen in the next couple of weeks
 
@@ -146,41 +145,7 @@ How to practice and promote an inclusionary, welcoming open science.
 ---
 
 
----
-
-
----
-
-
----
-
-
 ## Day 2
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
 ### <a id="bl9"></a>Neural Networks in Python
 An introduction to packages for building and applying neural network models in Python.
 
@@ -195,41 +160,7 @@ An introduction to packages for building and applying neural network models in P
 ---
 
 
----
-
-
----
-
-
 ## Day 3
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
 ### <a id="bl10"></a>High Performance Python
 A review of tools and techniques for performance optimization of Python code.
 
@@ -244,41 +175,7 @@ A review of tools and techniques for performance optimization of Python code.
 ---
 
 
----
-
-
 ## Day 4
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
 ### <a id="bl11"></a>Cloud computing with AWS
 An introduction to cloud computing with examples using Amazon Web Services
 
@@ -295,216 +192,12 @@ An introduction to cloud computing with examples using Amazon Web Services
 
 ## Day 5
 
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
 ## Day 6
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
 
 ## Day 7
 
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
 ## Day 8
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
 
 ## Day 9
 
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
 ## Day 10
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
