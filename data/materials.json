@@ -4,9 +4,80 @@
     "instructor": "Ariel Rokem",
     "repo": "https://neurohackademy.github.io/introduction-to-nh/",
     "date": "07/30/2018",
-    "time": "9:00",
+    "time": "09:00",
     "duration": 60,
+    "room": "Alder 104",
     "desc": "Setting the stage, and explaining what will happen in the next couple of weeks"
+  },
+  {
+    "title": "Reproducibility in fMRI: What is the problem?",
+    "instructor": "Russ Poldrack",
+    "date": "07/30/2018",
+    "time": "10:30",
+    "duration": 90,
+    "room": "Alder 104",
+    "desc": "A review of barriers to reproducible neuroimaging research, and some potential solutions."
+  },
+  {
+    "title": "Git/Github",
+    "instructor": "Bernease Herman",
+    "date": "07/30/2018",
+    "time": "13:00",
+    "duration": 90,
+    "room": "Alder 103",
+    "desc": "A tutorial on version control using git and GitHub."
+  },
+  {
+    "title": "Docker for Scientists",
+    "instructor": "Chris Gorgolewski",
+    "repo": "https://github.com/neurohackweek/docker-for-scientists",
+    "slides": "https://neurohackweek.github.io/docker-for-scientists/",
+    "date": "07/30/2018",
+    "time": "13:00",
+    "duration": 90,
+    "room": "Alder 104",
+    "desc": "An introduction to Docker and other containerization technologies."
+  },
+  {
+    "title": "Introduction to R",
+    "instructor": "Valentina Staneva",
+    "date": "07/30/2018",
+    "time": "14:30",
+    "duration": 90,
+    "room": "Alder 103",
+    "desc": "An introduction to the R programming language."
+  },
+  {
+    "title": "Introduction to Python",
+    "instructor": "Tal Yarkoni",
+    "repo": "https://github.com/neurohackademy/introduction-to-python",
+    "slides": "https://github.com/neurohackademy/introduction-to-python/blob/master/introduction-to-python.ipynb",
+    "date": "07/30/2018",
+    "time": "14:30",
+    "duration": 90,
+    "room": "Alder 104",
+    "desc": "An introduction to the Python programming language."
+  },
+  {
+    "title": "Software Testing for Scientists",
+    "instructor": "Chris Gorgolewski",
+    "repo": "https://github.com/neurohackweek/software-testing-for-scientists/",
+    "slides": "https://neurohackweek.github.io/software-testing-for-scientists/",
+    "date": "07/30/2018",
+    "time": "16:00",
+    "duration": 60,
+    "room": "Alder 103",
+    "desc": "An overview of software testing practices."
+  },
+  {
+    "title": "Science: Open for All",
+    "instructor": "Kirstie Whitaker",
+    "slides": "https://docs.google.com/presentation/d/1aZsggPkRrdLw_QSmvKA2z3OdIdx0TZg7GxeZtK_3ycQ/edit#slide=id.g1088c5b110_0_183",
+    "date": "07/30/2018",
+    "time": "17:00",
+    "duration": 60,
+    "room": "Alder 103",
+    "desc": "How to practice and promote an inclusionary, welcoming open science."
   },
   {
     "title": "High Performance Python",
@@ -35,6 +106,4 @@
     "duration": 180,
     "desc": "An introduction to cloud computing with examples using Amazon Web Services"
   }
-
-
 ]

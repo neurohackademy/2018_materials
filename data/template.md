@@ -5,7 +5,8 @@ This repository contains (or will eventually contain) links and descriptions of 
 ## Table of Contents
 {% for sec in sections %}
 * {{sec.name}}
-{% for bl in blocks %}{% if bl.date == sec.value %}	* [{{bl.title}}](#bl{{loop.index}}){% endif %}{% endfor %}
+{% for bl in blocks %}{% if bl.date == sec.value %}
+* [{{bl.title}}](#bl{{loop.index}}){% endif %}{% endfor %}
 {% endfor %}
 
 
@@ -16,6 +17,8 @@ This repository contains (or will eventually contain) links and descriptions of 
 **Instructor**: {{bl.instructor}}
 
 {% if bl.repo %}**Repository**: [{{bl.repo}}]({{bl.repo}})
+{% endif %}
+{% if bl.slides %}**Slides**: [{{bl.slides}}]({{bl.slides}})
 {% endif %}
 {% if bl.date %}**Date/time**: {{bl.date}}, {{bl.time}}
 {% endif %}
