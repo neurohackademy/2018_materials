@@ -16,3 +16,6 @@ install:
 
 script:
   - python src/generate_readme.py
+
+after_success:
+  - ./push.sh
