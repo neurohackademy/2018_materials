@@ -3,44 +3,34 @@
 This repository contains (or will eventually contain) links and descriptions of all publicly shareable materials, code, data, etc. used by instructors at Neurohackademy 2018. The ordering of lectures and tutorials roughly follows the chronology of the course.
 
 ## Table of Contents
-
 * Day 1
-
-* [Reproducibility in fMRI: What is the problem?](#bl1)
-* [Git/Github](#bl2)
-* [Docker for Scientists](#bl3)
-* [Introduction to R](#bl4)
-* [Introduction to Python](#bl5)
-* [Software Testing for Scientists](#bl6)
-* [Science: Open for All](#bl7)
-* [Introduction to Neurohackademy](#bl8)
+	* [Introduction to Neurohackademy](#bl1)
+	* [Reproducibility in fMRI: What is the problem?](#bl2)
+	* [Git/Github](#bl3)
+	* [Docker for Scientists](#bl4)
+	* [Introduction to R](#bl5)
+	* [Introduction to Python](#bl6)
+	* [Software Testing for Scientists](#bl7)
+	* [Science: Open for All](#bl8)
 
 * Day 2
-
-* [Neural Networks in Python](#bl9)
+	* [Neural Networks in Python](#bl9)
 
 * Day 3
-
-* [High Performance Python](#bl10)
+	* [High Performance Python](#bl10)
 
 * Day 4
-
-* [Cloud computing with AWS](#bl11)
+	* [Cloud computing with AWS](#bl11)
 
 * Day 5
 
-
 * Day 6
-
 
 * Day 7
 
-
 * Day 8
 
-
 * Day 9
-
 
 * Day 10
 
@@ -49,7 +39,20 @@ This repository contains (or will eventually contain) links and descriptions of 
 
 ## Materials
 
-### <a id="bl1"></a>Reproducibility in fMRI: What is the problem?
+### <a id="bl1"></a>Introduction to Neurohackademy
+
+**Instructor**: Ariel Rokem
+
+**Repository**: [https://neurohackademy.github.io/introduction-to-nh/](https://neurohackademy.github.io/introduction-to-nh/)
+
+
+**Date/time**: 07/30/2018, 09:00
+
+Setting the stage, and explaining what will happen in the next couple of weeks
+
+---
+
+### <a id="bl2"></a>Reproducibility in fMRI: What is the problem?
 
 **Instructor**: Russ Poldrack
 
@@ -61,7 +64,7 @@ A review of barriers to reproducible neuroimaging research, and some potential s
 
 ---
 
-### <a id="bl2"></a>Git/Github
+### <a id="bl3"></a>Git/Github
 
 **Instructor**: Bernease Herman
 
@@ -73,7 +76,7 @@ A tutorial on version control using git and GitHub.
 
 ---
 
-### <a id="bl3"></a>Docker for Scientists
+### <a id="bl4"></a>Docker for Scientists
 
 **Instructor**: Chris Gorgolewski
 
@@ -87,7 +90,7 @@ An introduction to Docker and other containerization technologies.
 
 ---
 
-### <a id="bl4"></a>Introduction to R
+### <a id="bl5"></a>Introduction to R
 
 **Instructor**: Valentina Staneva
 
@@ -99,7 +102,7 @@ An introduction to the R programming language.
 
 ---
 
-### <a id="bl5"></a>Introduction to Python
+### <a id="bl6"></a>Introduction to Python
 
 **Instructor**: Tal Yarkoni
 
@@ -113,7 +116,7 @@ An introduction to the Python programming language.
 
 ---
 
-### <a id="bl6"></a>Software Testing for Scientists
+### <a id="bl7"></a>Software Testing for Scientists
 
 **Instructor**: Chris Gorgolewski
 
@@ -127,7 +130,7 @@ An overview of software testing practices.
 
 ---
 
-### <a id="bl7"></a>Science: Open for All
+### <a id="bl8"></a>Science: Open for All
 
 **Instructor**: Kirstie Whitaker
 
@@ -137,19 +140,6 @@ An overview of software testing practices.
 **Date/time**: 07/30/2018, 17:00
 
 How to practice and promote an inclusionary, welcoming open science.
-
----
-
-### <a id="bl8"></a>Introduction to Neurohackademy
-
-**Instructor**: Ariel Rokem
-
-**Repository**: [https://neurohackademy.github.io/introduction-to-nh/](https://neurohackademy.github.io/introduction-to-nh/)
-
-
-**Date/time**: 07/30/2018, 9:00
-
-Setting the stage, and explaining what will happen in the next couple of weeks
 
 ---
 

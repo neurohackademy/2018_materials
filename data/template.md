@@ -3,10 +3,9 @@
 This repository contains (or will eventually contain) links and descriptions of all publicly shareable materials, code, data, etc. used by instructors at Neurohackademy 2018. The ordering of lectures and tutorials roughly follows the chronology of the course.
 
 ## Table of Contents
-{% for sec in sections %}
-* {{sec.name}}
-{% for bl in blocks %}{% if bl.date == sec.value %}
-* [{{bl.title}}](#bl{{loop.index}}){% endif %}{% endfor %}
+{% for sec in sections %}* {{sec.name}}
+{% for bl in blocks %}{% if bl.date == sec.value %}	* [{{bl.title}}](#bl{{loop.index}})
+{% endif %}{% endfor %}
 {% endfor %}
 
 
