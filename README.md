@@ -59,6 +59,7 @@ A review of barriers to reproducible neuroimaging research, and some potential s
 **Instructor**: Russ Poldrack
 
 
+**Slides**: [http://neurohackademy.org/wp-content/uploads/2018/02/Reproducibility_NHW2018.pdf](http://neurohackademy.org/wp-content/uploads/2018/02/Reproducibility_NHW2018.pdf)
 
 **Date/time**: 07/30/2018, 10:30
 
