@@ -154,6 +154,48 @@
     "desc": "An introduction to packages for building and applying neural network models in Python."
   },
   {
+    "title": "Neuroethics",
+    "instructor": "Eran Klein",
+    "date": "08/01/2018",
+    "time": "10:30",
+    "duration": 90,
+    "desc": "An overview of ethical considerations and issues relevant to neuroscientific research."
+  },
+  {
+    "title": "Machine learning with scikit-learn",
+    "instructor": "Jake Vanderplas",
+    "repo": "https://github.com/jakevdp/sklearn_tutorial",
+    "slides": "https://github.com/jakevdp/sklearn_tutorial/blob/master/notebooks/Index.ipynb",
+    "date": "08/01/2018",
+    "time": "13:00",
+    "duration": 180,
+    "desc": "An introduction to machine learning in Python using scikit-learn."
+  },
+  {
+    "title": "The Brain Imaging Data Structure (BIDS)",
+    "instructor": "Chris Gorgolewski",
+    "date": "08/01/2018",
+    "time": "16:00",
+    "duration": 60,
+    "desc": "An introduction to the BIDS ecosystem: The BIDS spec, BIDS-Apps, and other applications."
+  },
+  {
+    "title": "CRN resources",
+    "instructor": "Chris Gorgolewski",
+    "date": "08/01/2018",
+    "time": "17:00",
+    "duration": 60,
+    "desc": "Overview of open neuroscience tools and services developed at the Center for Reproducible Neuroscience (e.g., OpenNeuro, fMRIPrep, etc.)."
+  },
+  {
+    "title": "Introduction to web technologies",
+    "instructor": "Anisha Keshavan",
+    "date": "08/01/2018",
+    "time": "17:00",
+    "duration": 60,
+    "desc": "An introduction to back-end and front-end web development."
+  },
+  {
     "title": "Cloud computing with AWS",
     "instructor": "Amanda Tan and Ariel Rokem",
     "repo": "https://github.com/neurohackademy/cloud101_aws",

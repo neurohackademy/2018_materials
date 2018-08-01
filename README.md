@@ -4,29 +4,34 @@ This repository contains (or will eventually contain) links and descriptions of 
 
 # Table of Contents
 * Day 1
-	* [Introduction to Neurohackademy](#bl1) (Ariel Rokem)
-	* [Reproducibility in fMRI: What is the problem?](#bl2) (Russ Poldrack)
-	* [Git/Github](#bl3) (Bernease Herman)
-	* [Docker for Scientists](#bl4) (Chris Gorgolewski)
-	* [Introduction to R](#bl5) (Valentina Staneva)
-	* [Introduction to Python](#bl6) (Tal Yarkoni)
-	* [Software Testing for Scientists](#bl7) (Chris Gorgolewski)
-	* [Science: Open for All](#bl8) (Kirstie Whitaker)
+	* [09:00] [Introduction to Neurohackademy](#bl1) (Ariel Rokem)
+	* [10:30] [Reproducibility in fMRI: What is the problem?](#bl2) (Russ Poldrack)
+	* [13:00] [Git/Github](#bl3) (Bernease Herman)
+	* [13:00] [Docker for Scientists](#bl4) (Chris Gorgolewski)
+	* [14:30] [Introduction to R](#bl5) (Valentina Staneva)
+	* [14:30] [Introduction to Python](#bl6) (Tal Yarkoni)
+	* [16:00] [Software Testing for Scientists](#bl7) (Chris Gorgolewski)
+	* [17:00] [Science: Open for All](#bl8) (Kirstie Whitaker)
 
 * Day 2
-	* [From interactive exploration to reproducible data science: Jupyter, Binder, Travis and friends](#bl9) (Fernando Perez)
-	* [Numerical computing for neuroimaging](#bl10) (JB Poline)
-	* [Python Packaging](#bl11) (Ariel Rokem)
-	* [Visualization in Python: An overview](#bl12) (Tal Yarkoni)
-	* [Image processing and computer vision with scikit-image](#bl13) (Michael Beyeler)
-	* [Data manipulation in pandas](#bl14) (Tal Yarkoni)
-	* [High Performance Python](#bl15) (Ariel Rokem)
-	* [Neural Networks in Python](#bl16) (Ariel Rokem)
+	* [09:00] [From interactive exploration to reproducible data science: Jupyter, Binder, Travis and friends](#bl9) (Fernando Perez)
+	* [13:00] [Numerical computing for neuroimaging](#bl10) (JB Poline)
+	* [13:00] [Python Packaging](#bl11) (Ariel Rokem)
+	* [14:30] [Visualization in Python: An overview](#bl12) (Tal Yarkoni)
+	* [14:30] [Image processing and computer vision with scikit-image](#bl13) (Michael Beyeler)
+	* [15:30] [Data manipulation in pandas](#bl14) (Tal Yarkoni)
+	* [15:30] [High Performance Python](#bl15) (Ariel Rokem)
+	* [17:00] [Neural Networks in Python](#bl16) (Ariel Rokem)
 
 * Day 3
+	* [10:30] [Neuroethics](#bl17) (Eran Klein)
+	* [13:00] [Machine learning with scikit-learn](#bl18) (Jake Vanderplas)
+	* [16:00] [The Brain Imaging Data Structure (BIDS)](#bl19) (Chris Gorgolewski)
+	* [17:00] [CRN resources](#bl20) (Chris Gorgolewski)
+	* [17:00] [Introduction to web technologies](#bl21) (Anisha Keshavan)
 
 * Day 4
-	* [Cloud computing with AWS](#bl17) (Amanda Tan and Ariel Rokem)
+	* [09:00] [Cloud computing with AWS](#bl22) (Amanda Tan and Ariel Rokem)
 
 * Day 5
 
@@ -260,9 +265,71 @@ An introduction to packages for building and applying neural network models in P
 
 
 ## Day 3
+### <a id="bl17"></a>Neuroethics
+An overview of ethical considerations and issues relevant to neuroscientific research.
+
+**Instructor**: Eran Klein
+
+
+
+**Date/time**: 08/01/2018, 10:30
+
+
+---
+
+### <a id="bl18"></a>Machine learning with scikit-learn
+An introduction to machine learning in Python using scikit-learn.
+
+**Instructor**: Jake Vanderplas
+
+**Repository**: [https://github.com/jakevdp/sklearn_tutorial](https://github.com/jakevdp/sklearn_tutorial)
+
+**Slides**: [https://github.com/jakevdp/sklearn_tutorial/blob/master/notebooks/Index.ipynb](https://github.com/jakevdp/sklearn_tutorial/blob/master/notebooks/Index.ipynb)
+
+**Date/time**: 08/01/2018, 13:00
+
+
+---
+
+### <a id="bl19"></a>The Brain Imaging Data Structure (BIDS)
+An introduction to the BIDS ecosystem: The BIDS spec, BIDS-Apps, and other applications.
+
+**Instructor**: Chris Gorgolewski
+
+
+
+**Date/time**: 08/01/2018, 16:00
+
+
+---
+
+### <a id="bl20"></a>CRN resources
+Overview of open neuroscience tools and services developed at the Center for Reproducible Neuroscience (e.g., OpenNeuro, fMRIPrep, etc.).
+
+**Instructor**: Chris Gorgolewski
+
+
+
+**Date/time**: 08/01/2018, 17:00
+
+
+---
+
+### <a id="bl21"></a>Introduction to web technologies
+An introduction to back-end and front-end web development.
+
+**Instructor**: Anisha Keshavan
+
+
+
+**Date/time**: 08/01/2018, 17:00
+
+
+---
+
 
 ## Day 4
-### <a id="bl17"></a>Cloud computing with AWS
+### <a id="bl22"></a>Cloud computing with AWS
 An introduction to cloud computing with examples using Amazon Web Services
 
 **Instructor**: Amanda Tan and Ariel Rokem
