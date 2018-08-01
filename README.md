@@ -14,13 +14,19 @@ This repository contains (or will eventually contain) links and descriptions of 
 	* [Science: Open for All](#bl8) (Kirstie Whitaker)
 
 * Day 2
-	* [Neural Networks in Python](#bl9) (Ariel Rokem)
+	* [From interactive exploration to reproducible data science: Jupyter, Binder, Travis and friends](#bl9) (Fernando Perez)
+	* [Numerical computing for neuroimaging](#bl10) (JB Poline)
+	* [Python Packaging](#bl11) (Ariel Rokem)
+	* [Visualization in Python: An overview](#bl12) (Tal Yarkoni)
+	* [Image processing and computer vision with scikit-image](#bl13) (Michael Beyeler)
+	* [Data manipulation in pandas](#bl14) (Tal Yarkoni)
+	* [High Performance Python](#bl15) (Ariel Rokem)
+	* [Neural Networks in Python](#bl16) (Ariel Rokem)
 
 * Day 3
-	* [High Performance Python](#bl10) (Ariel Rokem)
 
 * Day 4
-	* [Cloud computing with AWS](#bl11) (Amanda Tan and Ariel Rokem)
+	* [Cloud computing with AWS](#bl17) (Amanda Tan and Ariel Rokem)
 
 * Day 5
 
@@ -147,12 +153,104 @@ How to practice and promote an inclusionary, welcoming open science.
 
 
 ## Day 2
-### <a id="bl9"></a>Neural Networks in Python
+### <a id="bl9"></a>From interactive exploration to reproducible data science: Jupyter, Binder, Travis and friends
+An introduction to the Jupyter ecosystem and its applications.
+
+**Instructor**: Fernando Perez
+
+**Repository**: [https://github.com/jupyterlab/jupyterlab-demo](https://github.com/jupyterlab/jupyterlab-demo)
+
+
+**Date/time**: 07/31/2018, 09:00
+
+
+---
+
+### <a id="bl10"></a>Numerical computing for neuroimaging
+An introduction to the Numpy numerical computing package and associated neuroimaging tools.
+
+**Instructor**: JB Poline
+
+**Repository**: [https://github.com/jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+
+
+**Date/time**: 07/31/2018, 13:00
+
+
+---
+
+### <a id="bl11"></a>Python Packaging
+A tutorial on creating and distributing Python packages.
+
+**Instructor**: Ariel Rokem
+
+
+**Slides**: [https://nsls-ii.github.io/scientific-python-cookiecutter/](https://nsls-ii.github.io/scientific-python-cookiecutter/)
+
+**Date/time**: 07/31/2018, 13:00
+
+
+---
+
+### <a id="bl12"></a>Visualization in Python: An overview
+An overview of matplotlib and associated packages for visualization in Python.
+
+**Instructor**: Tal Yarkoni
+
+**Repository**: [https://github.com/neurohackademy/visualization-in-python](https://github.com/neurohackademy/visualization-in-python)
+
+**Slides**: [https://github.com/neurohackademy/visualization-in-python/blob/master/visualization-in-python.ipynb](https://github.com/neurohackademy/visualization-in-python/blob/master/visualization-in-python.ipynb)
+
+**Date/time**: 07/31/2018, 14:30
+
+
+---
+
+### <a id="bl13"></a>Image processing and computer vision with scikit-image
+An introduction to image processing in Python using the scikit-image package.
+
+**Instructor**: Michael Beyeler
+
+
+**Slides**: [https://mbeyeler.github.io/2018-neurohack-skimage](https://mbeyeler.github.io/2018-neurohack-skimage)
+
+**Date/time**: 07/31/2018, 14:30
+
+
+---
+
+### <a id="bl14"></a>Data manipulation in pandas
+A tutorial on representation and manipulation of data in Python using pandas.
+
+**Instructor**: Tal Yarkoni
+
+**Repository**: [https://github.com/jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+
+
+**Date/time**: 07/31/2018, 15:30
+
+
+---
+
+### <a id="bl15"></a>High Performance Python
+A review of tools and techniques for performance optimization of Python code.
+
+**Instructor**: Ariel Rokem
+
+**Repository**: [https://github.com/neurohackademy/high-performance-python](https://github.com/neurohackademy/high-performance-python)
+
+
+**Date/time**: 07/31/2018, 15:30
+
+
+---
+
+### <a id="bl16"></a>Neural Networks in Python
 An introduction to packages for building and applying neural network models in Python.
 
 **Instructor**: Ariel Rokem
 
-**Repository**: [https://github.com/neurohackademy/neural-networks](https://github.com/neurohackademy/neural-networks)
+**Repository**: [https://neurohackademy.github.io/convolutional-neural-networks/](https://neurohackademy.github.io/convolutional-neural-networks/)
 
 
 **Date/time**: 07/31/2018, 17:00
@@ -162,22 +260,9 @@ An introduction to packages for building and applying neural network models in P
 
 
 ## Day 3
-### <a id="bl10"></a>High Performance Python
-A review of tools and techniques for performance optimization of Python code.
-
-**Instructor**: Ariel Rokem
-
-**Repository**: [https://github.com/neurohackademy/high-performance-python](https://github.com/neurohackademy/high-performance-python)
-
-
-**Date/time**: 08/01/2018, 17:00
-
-
----
-
 
 ## Day 4
-### <a id="bl11"></a>Cloud computing with AWS
+### <a id="bl17"></a>Cloud computing with AWS
 An introduction to cloud computing with examples using Amazon Web Services
 
 **Instructor**: Amanda Tan and Ariel Rokem

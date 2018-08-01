@@ -81,18 +81,73 @@
     "desc": "How to practice and promote an inclusionary, welcoming open science."
   },
   {
+    "title": "From interactive exploration to reproducible data science: Jupyter, Binder, Travis and friends",
+    "instructor": "Fernando Perez",
+    "repo": "https://github.com/jupyterlab/jupyterlab-demo",
+    "date": "07/31/2018",
+    "time": "09:00",
+    "duration": 180,
+    "desc": "An introduction to the Jupyter ecosystem and its applications."
+  },
+  {
+    "title": "Numerical computing for neuroimaging",
+    "instructor": "JB Poline",
+    "repo": "https://github.com/jakevdp/PythonDataScienceHandbook",
+    "date": "07/31/2018",
+    "time": "13:00",
+    "duration": 90,
+    "desc": "An introduction to the Numpy numerical computing package and associated neuroimaging tools."
+  },
+  {
+    "title": "Python Packaging",
+    "instructor": "Ariel Rokem",
+    "slides": "https://nsls-ii.github.io/scientific-python-cookiecutter/",
+    "date": "07/31/2018",
+    "time": "13:00",
+    "duration": 90,
+    "desc": "A tutorial on creating and distributing Python packages."
+  },
+  {
+    "title": "Visualization in Python: An overview",
+    "instructor": "Tal Yarkoni",
+    "repo": "https://github.com/neurohackademy/visualization-in-python",
+    "slides": "https://github.com/neurohackademy/visualization-in-python/blob/master/visualization-in-python.ipynb",
+    "date": "07/31/2018",
+    "time": "14:30",
+    "duration": 60,
+    "desc": "An overview of matplotlib and associated packages for visualization in Python."
+  },
+  {
+    "title": "Image processing and computer vision with scikit-image",
+    "instructor": "Michael Beyeler",
+    "slides": "https://mbeyeler.github.io/2018-neurohack-skimage",
+    "date": "07/31/2018",
+    "time": "14:30",
+    "duration": 60,
+    "desc": "An introduction to image processing in Python using the scikit-image package."
+  },
+  {
+    "title": "Data manipulation in pandas",
+    "instructor": "Tal Yarkoni",
+    "repo": "https://github.com/jakevdp/PythonDataScienceHandbook",
+    "date": "07/31/2018",
+    "time": "15:30",
+    "duration": 90,
+    "desc": "A tutorial on representation and manipulation of data in Python using pandas."
+  },
+  {
     "title": "High Performance Python",
     "instructor": "Ariel Rokem",
     "repo": "https://github.com/neurohackademy/high-performance-python",
-    "date": "08/01/2018",
-    "time": "17:00",
-    "duration": 60,
+    "date": "07/31/2018",
+    "time": "15:30",
+    "duration": 90,
     "desc": "A review of tools and techniques for performance optimization of Python code."
   },
   {
     "title": "Neural Networks in Python",
     "instructor": "Ariel Rokem",
-    "repo": "https://github.com/neurohackademy/neural-networks",
+    "repo": "https://neurohackademy.github.io/convolutional-neural-networks/",
     "date": "07/31/2018",
     "time": "17:00",
     "duration": 60,
