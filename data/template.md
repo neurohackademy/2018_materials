@@ -4,6 +4,6 @@ This repository contains (or will eventually contain) links and descriptions of 
 
 # Table of Contents
 {% for sec in sections %}* {{sec.name}} ({{sec.value}})
-{% for bl in blocks %}{% if bl.date == sec.value %}	* {% if bl.slides %}[{{bl.time}}] [{% endif %}{{bl.title}}{% if bl.slides %}]({{bl.slides}}){% endif %} ({{bl.instructor}}){% if bl.repo %} [repo]({{bl.repo}}){% endif %}
+{% for bl in blocks %}{% if bl.date == sec.value %}	* [{{bl.time}}] {% if bl.slides %}[{% endif %}{{bl.title}}{% if bl.slides %}]({{bl.slides}}){% endif %} ({{bl.instructor}}){% if bl.repo %} [repo]({{bl.repo}}){% endif %}
 {% endif %}{% endfor %}
 {% endfor %}
