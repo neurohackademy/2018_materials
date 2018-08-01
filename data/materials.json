@@ -139,6 +139,7 @@
     "title": "High Performance Python",
     "instructor": "Ariel Rokem",
     "repo": "https://github.com/neurohackademy/high-performance-python",
+    "slides": "https://neurohackademy.github.io/high-performance-python/",
     "date": "07/31/2018",
     "time": "15:30",
     "duration": 90,
@@ -147,7 +148,8 @@
   {
     "title": "Neural Networks in Python",
     "instructor": "Ariel Rokem",
-    "repo": "https://neurohackademy.github.io/convolutional-neural-networks/",
+    "slides": "https://neurohackademy.github.io/convolutional-neural-networks/",
+    "repo": "https://github.com/neurohackademy/convolutional-neural-networks/",
     "date": "07/31/2018",
     "time": "17:00",
     "duration": 60,

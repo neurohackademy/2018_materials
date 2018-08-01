@@ -20,8 +20,8 @@ This repository contains (or will eventually contain) links and descriptions of 
 	* [14:30] [Visualization in Python: An overview](https://github.com/neurohackademy/visualization-in-python/blob/master/visualization-in-python.ipynb) (Tal Yarkoni) [[repo]](https://github.com/neurohackademy/visualization-in-python)
 	* [14:30] [Image processing and computer vision with scikit-image](https://mbeyeler.github.io/2018-neurohack-skimage) (Michael Beyeler)
 	* [15:30] Data manipulation in pandas (Tal Yarkoni) [[repo]](https://github.com/jakevdp/PythonDataScienceHandbook)
-	* [15:30] High Performance Python (Ariel Rokem) [[repo]](https://github.com/neurohackademy/high-performance-python)
-	* [17:00] Neural Networks in Python (Ariel Rokem) [[repo]](https://neurohackademy.github.io/convolutional-neural-networks/)
+	* [15:30] [High Performance Python](https://neurohackademy.github.io/high-performance-python/) (Ariel Rokem) [[repo]](https://github.com/neurohackademy/high-performance-python)
+	* [17:00] [Neural Networks in Python](https://neurohackademy.github.io/convolutional-neural-networks/) (Ariel Rokem) [[repo]](https://github.com/neurohackademy/convolutional-neural-networks/)
 
 * Day 3 (08/01/2018)
 	* [10:30] Neuroethics (Eran Klein)
