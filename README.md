@@ -32,8 +32,11 @@ This repository contains (or will eventually contain) links and descriptions of 
 
 * Day 4
 	* [09:00] [Cloud computing with AWS](#bl22) (Amanda Tan and Ariel Rokem)
+	* [14:45] [Software pipelines for reproducible neuroimaging](#bl23) (Chris Gorgolewski and Satra Ghosh)
 
 * Day 5
+	* [09:00] [Predictive models using object-oriented, interactive analysis in Matlab: Tools and application to pain](#bl24) (Tor Wager)
+	* [09:00] [Finding low-dimensional structure in large-scale neural recordings](#bl25) (Eva Dyer)
 
 * Day 6
 
@@ -52,7 +55,6 @@ This repository contains (or will eventually contain) links and descriptions of 
 
 ## Day 1
 ### <a id="bl1"></a>Introduction to Neurohackademy
-Setting the stage, and explaining what will happen in the next couple of weeks
 
 **Instructor**: Ariel Rokem
 
@@ -65,7 +67,6 @@ Setting the stage, and explaining what will happen in the next couple of weeks
 ---
 
 ### <a id="bl2"></a>Reproducibility in fMRI: What is the problem?
-A review of barriers to reproducible neuroimaging research, and some potential solutions.
 
 **Instructor**: Russ Poldrack
 
@@ -78,7 +79,6 @@ A review of barriers to reproducible neuroimaging research, and some potential s
 ---
 
 ### <a id="bl3"></a>Git/Github
-A tutorial on version control using git and GitHub.
 
 **Instructor**: Bernease Herman
 
@@ -90,7 +90,6 @@ A tutorial on version control using git and GitHub.
 ---
 
 ### <a id="bl4"></a>Docker for Scientists
-An introduction to Docker and other containerization technologies.
 
 **Instructor**: Chris Gorgolewski
 
@@ -104,7 +103,6 @@ An introduction to Docker and other containerization technologies.
 ---
 
 ### <a id="bl5"></a>Introduction to R
-An introduction to the R programming language.
 
 **Instructor**: Valentina Staneva
 
@@ -116,7 +114,6 @@ An introduction to the R programming language.
 ---
 
 ### <a id="bl6"></a>Introduction to Python
-An introduction to the Python programming language.
 
 **Instructor**: Tal Yarkoni
 
@@ -130,7 +127,6 @@ An introduction to the Python programming language.
 ---
 
 ### <a id="bl7"></a>Software Testing for Scientists
-An overview of software testing practices.
 
 **Instructor**: Chris Gorgolewski
 
@@ -144,7 +140,6 @@ An overview of software testing practices.
 ---
 
 ### <a id="bl8"></a>Science: Open for All
-How to practice and promote an inclusionary, welcoming open science.
 
 **Instructor**: Kirstie Whitaker
 
@@ -159,7 +154,6 @@ How to practice and promote an inclusionary, welcoming open science.
 
 ## Day 2
 ### <a id="bl9"></a>From interactive exploration to reproducible data science: Jupyter, Binder, Travis and friends
-An introduction to the Jupyter ecosystem and its applications.
 
 **Instructor**: Fernando Perez
 
@@ -172,7 +166,6 @@ An introduction to the Jupyter ecosystem and its applications.
 ---
 
 ### <a id="bl10"></a>Numerical computing for neuroimaging
-An introduction to the Numpy numerical computing package and associated neuroimaging tools.
 
 **Instructor**: JB Poline
 
@@ -185,7 +178,6 @@ An introduction to the Numpy numerical computing package and associated neuroima
 ---
 
 ### <a id="bl11"></a>Python Packaging
-A tutorial on creating and distributing Python packages.
 
 **Instructor**: Ariel Rokem
 
@@ -198,7 +190,6 @@ A tutorial on creating and distributing Python packages.
 ---
 
 ### <a id="bl12"></a>Visualization in Python: An overview
-An overview of matplotlib and associated packages for visualization in Python.
 
 **Instructor**: Tal Yarkoni
 
@@ -212,7 +203,6 @@ An overview of matplotlib and associated packages for visualization in Python.
 ---
 
 ### <a id="bl13"></a>Image processing and computer vision with scikit-image
-An introduction to image processing in Python using the scikit-image package.
 
 **Instructor**: Michael Beyeler
 
@@ -225,7 +215,6 @@ An introduction to image processing in Python using the scikit-image package.
 ---
 
 ### <a id="bl14"></a>Data manipulation in pandas
-A tutorial on representation and manipulation of data in Python using pandas.
 
 **Instructor**: Tal Yarkoni
 
@@ -238,7 +227,6 @@ A tutorial on representation and manipulation of data in Python using pandas.
 ---
 
 ### <a id="bl15"></a>High Performance Python
-A review of tools and techniques for performance optimization of Python code.
 
 **Instructor**: Ariel Rokem
 
@@ -251,7 +239,6 @@ A review of tools and techniques for performance optimization of Python code.
 ---
 
 ### <a id="bl16"></a>Neural Networks in Python
-An introduction to packages for building and applying neural network models in Python.
 
 **Instructor**: Ariel Rokem
 
@@ -266,7 +253,6 @@ An introduction to packages for building and applying neural network models in P
 
 ## Day 3
 ### <a id="bl17"></a>Neuroethics
-An overview of ethical considerations and issues relevant to neuroscientific research.
 
 **Instructor**: Eran Klein
 
@@ -278,7 +264,6 @@ An overview of ethical considerations and issues relevant to neuroscientific res
 ---
 
 ### <a id="bl18"></a>Machine learning with scikit-learn
-An introduction to machine learning in Python using scikit-learn.
 
 **Instructor**: Jake Vanderplas
 
@@ -292,7 +277,6 @@ An introduction to machine learning in Python using scikit-learn.
 ---
 
 ### <a id="bl19"></a>The Brain Imaging Data Structure (BIDS)
-An introduction to the BIDS ecosystem: The BIDS spec, BIDS-Apps, and other applications.
 
 **Instructor**: Chris Gorgolewski
 
@@ -304,7 +288,6 @@ An introduction to the BIDS ecosystem: The BIDS spec, BIDS-Apps, and other appli
 ---
 
 ### <a id="bl20"></a>CRN resources
-Overview of open neuroscience tools and services developed at the Center for Reproducible Neuroscience (e.g., OpenNeuro, fMRIPrep, etc.).
 
 **Instructor**: Chris Gorgolewski
 
@@ -316,7 +299,6 @@ Overview of open neuroscience tools and services developed at the Center for Rep
 ---
 
 ### <a id="bl21"></a>Introduction to web technologies
-An introduction to back-end and front-end web development.
 
 **Instructor**: Anisha Keshavan
 
@@ -330,7 +312,6 @@ An introduction to back-end and front-end web development.
 
 ## Day 4
 ### <a id="bl22"></a>Cloud computing with AWS
-An introduction to cloud computing with examples using Amazon Web Services
 
 **Instructor**: Amanda Tan and Ariel Rokem
 
@@ -342,8 +323,41 @@ An introduction to cloud computing with examples using Amazon Web Services
 
 ---
 
+### <a id="bl23"></a>Software pipelines for reproducible neuroimaging
+
+**Instructor**: Chris Gorgolewski and Satra Ghosh
+
+
+
+**Date/time**: 08/02/2018, 14:45
+
+
+---
+
 
 ## Day 5
+### <a id="bl24"></a>Predictive models using object-oriented, interactive analysis in Matlab: Tools and application to pain
+
+**Instructor**: Tor Wager
+
+
+
+**Date/time**: 08/03/2018, 09:00
+
+
+---
+
+### <a id="bl25"></a>Finding low-dimensional structure in large-scale neural recordings
+
+**Instructor**: Eva Dyer
+
+
+
+**Date/time**: 08/03/2018, 09:00
+
+
+---
+
 
 ## Day 6
 

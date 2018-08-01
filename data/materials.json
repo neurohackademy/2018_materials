@@ -203,5 +203,29 @@
     "time": "09:00",
     "duration": 180,
     "desc": "An introduction to cloud computing with examples using Amazon Web Services"
+  },
+  {
+    "title": "Software pipelines for reproducible neuroimaging",
+    "instructor": "Chris Gorgolewski and Satra Ghosh",
+    "date": "08/02/2018",
+    "time": "14:45",
+    "duration": 150,
+    "desc": "This tutorial introduces tool for constructing reproducible workflows for fMRI preprocessing and analysis."
+  },
+  {
+    "title": "Predictive models using object-oriented, interactive analysis in Matlab: Tools and application to pain",
+    "instructor": "Tor Wager",
+    "date": "08/03/2018",
+    "time": "09:00",
+    "duration": 180,
+    "desc": ""
+  },
+  {
+    "title": "Finding low-dimensional structure in large-scale neural recordings",
+    "instructor": "Eva Dyer",
+    "date": "08/03/2018",
+    "time": "09:00",
+    "duration": 180,
+    "desc": ""
   }
 ]

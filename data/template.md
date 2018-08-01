@@ -13,7 +13,6 @@ This repository contains (or will eventually contain) links and descriptions of 
 {% for sec in sections %}
 ## {{sec.name}}
 {% for bl in blocks %}{% if bl.date == sec.value %}### <a id="bl{{loop.index}}"></a>{{bl.title}}
-{{bl.desc}}
 
 **Instructor**: {{bl.instructor}}
 
