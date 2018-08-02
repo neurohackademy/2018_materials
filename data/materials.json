@@ -192,10 +192,11 @@
   {
     "title": "Introduction to web technologies",
     "instructor": "Anisha Keshavan",
+    "slides": "http://anisha.pizza/nha2018_web/",
     "date": "08/01/2018",
     "time": "17:00",
     "duration": 60,
-    "desc": "An introduction to back-end and front-end web development."
+    "desc": "An introduction to front-end web development using HTML, CSS, and JavaScript."
   },
   {
     "title": "Cloud computing with AWS",
