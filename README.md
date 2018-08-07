@@ -26,8 +26,8 @@ This repository contains (or will eventually contain) links and descriptions of 
 * Day 3 (08/01/2018)
 	* [10:30] Neuroethics (Eran Klein)
 	* [13:00] [Machine learning with scikit-learn](https://github.com/jakevdp/sklearn_tutorial/blob/master/notebooks/Index.ipynb) (Jake Vanderplas) [[repo]](https://github.com/jakevdp/sklearn_tutorial)
-	* [16:00] The Brain Imaging Data Structure (BIDS) (Chris Gorgolewski)
-	* [17:00] CRN resources (Chris Gorgolewski)
+	* [16:00] [The Brain Imaging Data Structure (BIDS)](./slides/Gorgolewski_BIDS.pdf) (Chris Gorgolewski)
+	* [17:00] [BIDS: Tools and Services](./slides/Gorgolewski_BIDS_tools.pdf) (Chris Gorgolewski)
 	* [17:00] [Introduction to web technologies](http://anisha.pizza/nha2018_web/) (Anisha Keshavan)
 
 * Day 4 (08/02/2018)
