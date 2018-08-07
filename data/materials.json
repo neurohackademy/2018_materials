@@ -178,14 +178,16 @@
   {
     "title": "The Brain Imaging Data Structure (BIDS)",
     "instructor": "Chris Gorgolewski",
+    "slides": "./slides/Gorgolewski_BIDS.pdf",
     "date": "08/01/2018",
     "time": "16:00",
     "duration": 60,
     "desc": "An introduction to the BIDS ecosystem: The BIDS spec, BIDS-Apps, and other applications."
   },
   {
-    "title": "CRN resources",
+    "title": "BIDS: Tools and Services",
     "instructor": "Chris Gorgolewski",
+    "slides": "./slides/Gorgolewski_BIDS_tools.pdf",
     "date": "08/01/2018",
     "time": "17:00",
     "duration": 60,
