@@ -32,7 +32,7 @@ This repository contains (or will eventually contain) links and descriptions of 
 
 * Day 4 (08/02/2018)
 	* [09:00] Cloud computing with AWS (Amanda Tan and Ariel Rokem) [[repo]](https://github.com/neurohackademy/cloud101_aws)
-	* [14:45] Software pipelines for reproducible neuroimaging (Chris Gorgolewski and Satra Ghosh)
+	* [14:45] [Software pipelines for reproducible neuroimaging](./slides/Ghosh_reproducibility.pdf) (Chris Gorgolewski and Satra Ghosh) [[repo]](https://github.com/miykael/nipype_tutorial)
 
 * Day 5 (08/03/2018)
 	* [09:00] Predictive models using object-oriented, interactive analysis in Matlab: Tools and application to pain (Tor Wager)

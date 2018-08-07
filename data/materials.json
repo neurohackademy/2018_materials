@@ -214,6 +214,8 @@
   {
     "title": "Software pipelines for reproducible neuroimaging",
     "instructor": "Chris Gorgolewski and Satra Ghosh",
+    "slides": "./slides/Ghosh_reproducibility.pdf",
+    "repo": "https://github.com/miykael/nipype_tutorial",
     "date": "08/02/2018",
     "time": "14:45",
     "duration": 150,
