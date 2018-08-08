@@ -15,7 +15,7 @@ This repository contains (or will eventually contain) links and descriptions of 
 
 * Day 2 (07/31/2018)
 	* [09:00] From interactive exploration to reproducible data science: Jupyter, Binder, Travis and friends (Fernando Perez) [[repo]](https://github.com/jupyterlab/jupyterlab-demo) [[video]](https://youtu.be/zC-3sdPtb0w)
-	* [13:00] Numerical computing for neuroimaging (JB Poline) [[repo]](https://github.com/jakevdp/PythonDataScienceHandbook)
+	* [13:00] Numerical computing for neuroimaging (JB Poline) [[repo]](https://github.com/jbpoline/nhw-2018-tuesday-intro-numpy-nibabel)
 	* [13:00] [Python Packaging](https://nsls-ii.github.io/scientific-python-cookiecutter/) (Ariel Rokem)
 	* [14:30] [Visualization in Python: An overview](https://github.com/neurohackademy/visualization-in-python/blob/master/visualization-in-python.ipynb) (Tal Yarkoni) [[repo]](https://github.com/neurohackademy/visualization-in-python)
 	* [14:30] [Image processing and computer vision with scikit-image](https://mbeyeler.github.io/2018-neurohack-skimage) (Michael Beyeler)

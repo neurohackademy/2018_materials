@@ -94,7 +94,7 @@
   {
     "title": "Numerical computing for neuroimaging",
     "instructor": "JB Poline",
-    "repo": "https://github.com/jakevdp/PythonDataScienceHandbook",
+    "repo": "https://github.com/jbpoline/nhw-2018-tuesday-intro-numpy-nibabel",
     "date": "07/31/2018",
     "time": "13:00",
     "duration": 90,
