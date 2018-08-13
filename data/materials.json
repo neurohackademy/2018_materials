@@ -158,11 +158,12 @@
     "desc": "An introduction to packages for building and applying neural network models in Python."
   },
   {
-    "title": "Neuroethics",
+    "title": "Ethical Issues in Neural Data Collection and Use",
     "instructor": "Eran Klein",
     "date": "08/01/2018",
     "time": "10:30",
     "duration": 90,
+    "video": "https://www.youtube.com/watch?v=ZdaLDKCnVcc",
     "desc": "An overview of ethical considerations and issues relevant to neuroscientific research."
   },
   {
@@ -170,6 +171,7 @@
     "instructor": "Jake Vanderplas",
     "repo": "https://github.com/jakevdp/sklearn_tutorial",
     "slides": "https://github.com/jakevdp/sklearn_tutorial/blob/master/notebooks/Index.ipynb",
+    "video": "https://www.youtube.com/watch?v=yleEj8WayuY",
     "date": "08/01/2018",
     "time": "13:00",
     "duration": 180,
@@ -179,6 +181,7 @@
     "title": "The Brain Imaging Data Structure (BIDS)",
     "instructor": "Chris Gorgolewski",
     "slides": "./slides/Gorgolewski_BIDS.pdf",
+    "video": "https://www.youtube.com/watch?v=_6A31vYV8-E",
     "date": "08/01/2018",
     "time": "16:00",
     "duration": 60,
@@ -197,6 +200,7 @@
     "title": "Introduction to web technologies",
     "instructor": "Anisha Keshavan",
     "slides": "http://anisha.pizza/nha2018_web/",
+    "video": "https://www.youtube.com/watch?v=zPuld-D8Yfk",
     "date": "08/01/2018",
     "time": "17:00",
     "duration": 60,
@@ -206,16 +210,27 @@
     "title": "Cloud computing with AWS",
     "instructor": "Amanda Tan and Ariel Rokem",
     "repo": "https://github.com/neurohackademy/cloud101_aws",
+    "video": "https://www.youtube.com/watch?v=TjfZmiqBDwc",
     "date": "08/02/2018",
     "time": "09:00",
     "duration": 180,
     "desc": "An introduction to cloud computing with examples using Amazon Web Services"
   },
   {
+    "title": "Panel Discussion: Fostering Open Science Communities",
+    "instructor": "Chris Gorgolewski, Fernando Perez, Kirstie Whitaker, Gael Varoquaux, Satra Ghosh",
+    "date": "08/02/2018",
+    "video": "https://www.youtube.com/watch?v=XHAheuaKi64",
+    "time": "13:00",
+    "duration": 90,
+    "desc": "A group discussion about barriers to and strategies for promoting open science."
+  },
+  {
     "title": "Software pipelines for reproducible neuroimaging",
     "instructor": "Chris Gorgolewski and Satra Ghosh",
     "slides": "./slides/Ghosh_reproducibility.pdf",
     "repo": "https://github.com/miykael/nipype_tutorial",
+    "video": "https://www.youtube.com/watch?v=a5LW_cLVafQ",
     "date": "08/02/2018",
     "time": "14:45",
     "duration": 150,
@@ -224,6 +239,9 @@
   {
     "title": "Predictive models using object-oriented, interactive analysis in Matlab: Tools and application to pain",
     "instructor": "Tor Wager",
+    "slides": "https://canlab.github.io/walkthroughs/",
+    "repo": "https://github.com/canlab/CanlabCore",
+    "video": "https://www.youtube.com/watch?v=p5cwODVsqgg",
     "date": "08/03/2018",
     "time": "09:00",
     "duration": 180,
@@ -232,9 +250,60 @@
   {
     "title": "Finding low-dimensional structure in large-scale neural recordings",
     "instructor": "Eva Dyer",
+    "slides": "./slides/Dyer_DimReduction.pdf",
+    "video": "https://www.youtube.com/watch?v=cQgnnBK08B0",
     "date": "08/03/2018",
+    "time": "13:00",
+    "duration": 90,
+    "desc": ""
+  },
+  {
+    "title": "AllenSDK and the Allen Brain Observatory",
+    "instructor": "Nicolas Cain and Justin Kiggins",
+    "slides": "./slides/AIBS.pdf",
+    "date": "08/03/2018",
+    "time": "15:00",
+    "duration": 90,
+    "desc": ""
+  },
+  {
+    "title": "P-values and Reproducibility Issues",
+    "instructor": "JB Poline",
+    "date": "08/03/2018",
+    "time": "17:00",
+    "duration": 60,
+    "desc": ""
+  },
+  {
+    "title": "Machine Learning in Neuroimaging",
+    "instructor": "Gael Varoquaux",
+    "date": "08/06/2018",
     "time": "09:00",
     "duration": 180,
+    "desc": ""
+  },
+  {
+    "title": "R for statistical analysis of fMRI data",
+    "instructor": "Tara Madhyastha",
+    "date": "08/06/2018",
+    "time": "13:00",
+    "duration": 90,
+    "desc": ""
+  },
+  {
+    "title": "Synthesizing fMRI using generative adversarial networks: cognitive neuroscience applications, promises and pitfalls",
+    "instructor": "Sanmi Koyejo",
+    "date": "08/06/2018",
+    "time": "15:00",
+    "duration": 90,
+    "desc": ""
+  },
+  {
+    "title": "Brainhacking 101",
+    "instructor": "Cameron Craddock",
+    "date": "08/06/2018",
+    "time": "17:00",
+    "duration": 60,
     "desc": ""
   }
 ]

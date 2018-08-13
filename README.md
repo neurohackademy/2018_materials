@@ -24,21 +24,28 @@ This repository contains (or will eventually contain) links and descriptions of 
 	* [17:00] [Neural Networks in Python](https://neurohackademy.github.io/convolutional-neural-networks/) (Ariel Rokem) [[repo]](https://github.com/neurohackademy/convolutional-neural-networks/)
 
 * Day 3 (08/01/2018)
-	* [10:30] Neuroethics (Eran Klein)
-	* [13:00] [Machine learning with scikit-learn](https://github.com/jakevdp/sklearn_tutorial/blob/master/notebooks/Index.ipynb) (Jake Vanderplas) [[repo]](https://github.com/jakevdp/sklearn_tutorial)
-	* [16:00] [The Brain Imaging Data Structure (BIDS)](./slides/Gorgolewski_BIDS.pdf) (Chris Gorgolewski)
+	* [10:30] Ethical Issues in Neural Data Collection and Use (Eran Klein) [[video]](https://www.youtube.com/watch?v=ZdaLDKCnVcc)
+	* [13:00] [Machine learning with scikit-learn](https://github.com/jakevdp/sklearn_tutorial/blob/master/notebooks/Index.ipynb) (Jake Vanderplas) [[repo]](https://github.com/jakevdp/sklearn_tutorial) [[video]](https://www.youtube.com/watch?v=yleEj8WayuY)
+	* [16:00] [The Brain Imaging Data Structure (BIDS)](./slides/Gorgolewski_BIDS.pdf) (Chris Gorgolewski) [[video]](https://www.youtube.com/watch?v=_6A31vYV8-E)
 	* [17:00] [BIDS: Tools and Services](./slides/Gorgolewski_BIDS_tools.pdf) (Chris Gorgolewski)
-	* [17:00] [Introduction to web technologies](http://anisha.pizza/nha2018_web/) (Anisha Keshavan)
+	* [17:00] [Introduction to web technologies](http://anisha.pizza/nha2018_web/) (Anisha Keshavan) [[video]](https://www.youtube.com/watch?v=zPuld-D8Yfk)
 
 * Day 4 (08/02/2018)
-	* [09:00] Cloud computing with AWS (Amanda Tan and Ariel Rokem) [[repo]](https://github.com/neurohackademy/cloud101_aws)
-	* [14:45] [Software pipelines for reproducible neuroimaging](./slides/Ghosh_reproducibility.pdf) (Chris Gorgolewski and Satra Ghosh) [[repo]](https://github.com/miykael/nipype_tutorial)
+	* [09:00] Cloud computing with AWS (Amanda Tan and Ariel Rokem) [[repo]](https://github.com/neurohackademy/cloud101_aws) [[video]](https://www.youtube.com/watch?v=TjfZmiqBDwc)
+	* [13:00] Panel Discussion: Fostering Open Science Communities (Chris Gorgolewski, Fernando Perez, Kirstie Whitaker, Gael Varoquaux, Satra Ghosh) [[video]](https://www.youtube.com/watch?v=XHAheuaKi64)
+	* [14:45] [Software pipelines for reproducible neuroimaging](./slides/Ghosh_reproducibility.pdf) (Chris Gorgolewski and Satra Ghosh) [[repo]](https://github.com/miykael/nipype_tutorial) [[video]](https://www.youtube.com/watch?v=a5LW_cLVafQ)
 
 * Day 5 (08/03/2018)
-	* [09:00] Predictive models using object-oriented, interactive analysis in Matlab: Tools and application to pain (Tor Wager)
-	* [09:00] Finding low-dimensional structure in large-scale neural recordings (Eva Dyer)
+	* [09:00] [Predictive models using object-oriented, interactive analysis in Matlab: Tools and application to pain](https://canlab.github.io/walkthroughs/) (Tor Wager) [[repo]](https://github.com/canlab/CanlabCore) [[video]](https://www.youtube.com/watch?v=p5cwODVsqgg)
+	* [13:00] [Finding low-dimensional structure in large-scale neural recordings](./slides/Dyer_DimReduction.pdf) (Eva Dyer) [[video]](https://www.youtube.com/watch?v=cQgnnBK08B0)
+	* [15:00] [AllenSDK and the Allen Brain Observatory](./slides/AIBS.pdf) (Nicolas Cain and Justin Kiggins)
+	* [17:00] P-values and Reproducibility Issues (JB Poline)
 
 * Day 6 (08/06/2018)
+	* [09:00] Machine Learning in Neuroimaging (Gael Varoquaux)
+	* [13:00] R for statistical analysis of fMRI data (Tara Madhyastha)
+	* [15:00] Synthesizing fMRI using generative adversarial networks: cognitive neuroscience applications, promises and pitfalls (Sanmi Koyejo)
+	* [17:00] Brainhacking 101 (Cameron Craddock)
 
 * Day 7 (08/07/2018)
 
