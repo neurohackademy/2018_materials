@@ -47,11 +47,3 @@ This repository contains (or will eventually contain) links and descriptions of 
 	* [15:00] Synthesizing fMRI using generative adversarial networks: cognitive neuroscience applications, promises and pitfalls (Sanmi Koyejo)
 	* [17:00] Brainhacking 101 (Cameron Craddock)
 
-* Day 7 (08/07/2018)
-
-* Day 8 (08/07/2018)
-
-* Day 9 (08/07/2018)
-
-* Day 10 (08/07/2018)
-
