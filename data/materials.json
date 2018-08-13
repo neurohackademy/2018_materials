@@ -123,6 +123,7 @@
     "title": "Image processing and computer vision with scikit-image",
     "instructor": "Michael Beyeler",
     "slides": "https://mbeyeler.github.io/2018-neurohack-skimage",
+    "video": "https://www.youtube.com/watch?v=rJUC3PmE6yQ",
     "date": "07/31/2018",
     "time": "14:30",
     "duration": 60,
@@ -132,6 +133,7 @@
     "title": "Data manipulation in pandas",
     "instructor": "Tal Yarkoni",
     "repo": "https://github.com/jakevdp/PythonDataScienceHandbook",
+    "video": "https://www.youtube.com/watch?v=1VY8ww9ZuzY",
     "date": "07/31/2018",
     "time": "15:30",
     "duration": 90,
@@ -148,10 +150,11 @@
     "desc": "A review of tools and techniques for performance optimization of Python code."
   },
   {
-    "title": "Neural Networks in Python",
+    "title": "Deep Learning with keras",
     "instructor": "Ariel Rokem",
     "slides": "https://neurohackademy.github.io/convolutional-neural-networks/",
     "repo": "https://github.com/neurohackademy/convolutional-neural-networks/",
+    "video": "https://www.youtube.com/watch?v=avuqm1BipVA",
     "date": "07/31/2018",
     "time": "17:00",
     "duration": 60,
@@ -209,6 +212,7 @@
   {
     "title": "Cloud computing with AWS",
     "instructor": "Amanda Tan and Ariel Rokem",
+    "slides": "https://neurohackademy.github.io/cloud101_aws/",
     "repo": "https://github.com/neurohackademy/cloud101_aws",
     "video": "https://www.youtube.com/watch?v=TjfZmiqBDwc",
     "date": "08/02/2018",

@@ -18,10 +18,10 @@ This repository contains (or will eventually contain) links and descriptions of 
 	* [13:00] Numerical computing for neuroimaging (JB Poline) [[repo]](https://github.com/jbpoline/nhw-2018-tuesday-intro-numpy-nibabel)
 	* [13:00] [Python Packaging](https://nsls-ii.github.io/scientific-python-cookiecutter/) (Ariel Rokem)
 	* [14:30] [Visualization in Python: An overview](https://github.com/neurohackademy/visualization-in-python/blob/master/visualization-in-python.ipynb) (Tal Yarkoni) [[repo]](https://github.com/neurohackademy/visualization-in-python)
-	* [14:30] [Image processing and computer vision with scikit-image](https://mbeyeler.github.io/2018-neurohack-skimage) (Michael Beyeler)
-	* [15:30] Data manipulation in pandas (Tal Yarkoni) [[repo]](https://github.com/jakevdp/PythonDataScienceHandbook)
+	* [14:30] [Image processing and computer vision with scikit-image](https://mbeyeler.github.io/2018-neurohack-skimage) (Michael Beyeler) [[video]](https://www.youtube.com/watch?v=rJUC3PmE6yQ)
+	* [15:30] Data manipulation in pandas (Tal Yarkoni) [[repo]](https://github.com/jakevdp/PythonDataScienceHandbook) [[video]](https://www.youtube.com/watch?v=1VY8ww9ZuzY)
 	* [15:30] [High Performance Python](https://neurohackademy.github.io/high-performance-python/) (Ariel Rokem) [[repo]](https://github.com/neurohackademy/high-performance-python)
-	* [17:00] [Neural Networks in Python](https://neurohackademy.github.io/convolutional-neural-networks/) (Ariel Rokem) [[repo]](https://github.com/neurohackademy/convolutional-neural-networks/)
+	* [17:00] [Deep Learning with keras](https://neurohackademy.github.io/convolutional-neural-networks/) (Ariel Rokem) [[repo]](https://github.com/neurohackademy/convolutional-neural-networks/) [[video]](https://www.youtube.com/watch?v=avuqm1BipVA)
 
 * Day 3 (08/01/2018)
 	* [10:30] Ethical Issues in Neural Data Collection and Use (Eran Klein) [[video]](https://www.youtube.com/watch?v=ZdaLDKCnVcc)
@@ -31,7 +31,7 @@ This repository contains (or will eventually contain) links and descriptions of 
 	* [17:00] [Introduction to web technologies](http://anisha.pizza/nha2018_web/) (Anisha Keshavan) [[video]](https://www.youtube.com/watch?v=zPuld-D8Yfk)
 
 * Day 4 (08/02/2018)
-	* [09:00] Cloud computing with AWS (Amanda Tan and Ariel Rokem) [[repo]](https://github.com/neurohackademy/cloud101_aws) [[video]](https://www.youtube.com/watch?v=TjfZmiqBDwc)
+	* [09:00] [Cloud computing with AWS](https://neurohackademy.github.io/cloud101_aws/) (Amanda Tan and Ariel Rokem) [[repo]](https://github.com/neurohackademy/cloud101_aws) [[video]](https://www.youtube.com/watch?v=TjfZmiqBDwc)
 	* [13:00] Panel Discussion: Fostering Open Science Communities (Chris Gorgolewski, Fernando Perez, Kirstie Whitaker, Gael Varoquaux, Satra Ghosh) [[video]](https://www.youtube.com/watch?v=XHAheuaKi64)
 	* [14:45] [Software pipelines for reproducible neuroimaging](./slides/Ghosh_reproducibility.pdf) (Chris Gorgolewski and Satra Ghosh) [[repo]](https://github.com/miykael/nipype_tutorial) [[video]](https://www.youtube.com/watch?v=a5LW_cLVafQ)
 
