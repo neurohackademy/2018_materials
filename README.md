@@ -44,6 +44,6 @@ This repository contains (or will eventually contain) links and descriptions of 
 * Day 6 (08/06/2018)
 	* [09:00] Machine Learning in Neuroimaging (Gael Varoquaux)
 	* [13:00] R for statistical analysis of fMRI data (Tara Madhyastha)
-	* [15:00] Synthesizing fMRI using generative adversarial networks: cognitive neuroscience applications, promises and pitfalls (Sanmi Koyejo)
+	* [15:00] [Synthesizing fMRI using generative adversarial networks: cognitive neuroscience applications, promises and pitfalls](./slides/Koyejo-Neurohackademy2018.pdf) (Sanmi Koyejo)
 	* [17:00] Brainhacking 101 (Cameron Craddock)
 

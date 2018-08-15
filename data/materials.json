@@ -297,6 +297,7 @@
   {
     "title": "Synthesizing fMRI using generative adversarial networks: cognitive neuroscience applications, promises and pitfalls",
     "instructor": "Sanmi Koyejo",
+    "slides": "./slides/Koyejo-Neurohackademy2018.pdf",
     "date": "08/06/2018",
     "time": "15:00",
     "duration": 90,
