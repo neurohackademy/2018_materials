@@ -41,8 +41,8 @@ This repository contains links and descriptions of all publicly shareable materi
 	* [17:00] P-values and Reproducibility Issues (JB Poline)
 
 * Day 6 (08/06/2018)
-	* [09:00] Machine Learning in Neuroimaging (Gael Varoquaux)
-	* [13:00] R for statistical analysis of fMRI data (Tara Madhyastha)
-	* [15:00] [Synthesizing fMRI using generative adversarial networks: cognitive neuroscience applications, promises and pitfalls](./slides/Koyejo-Neurohackademy2018.pdf) (Sanmi Koyejo)
-	* [17:00] Brainhacking 101 (Cameron Craddock)
+	* [09:00] Machine Learning in Neuroimaging (Gael Varoquaux) [[video]](https://www.youtube.com/watch?v=qyDv2bp-Vr8)
+	* [13:00] R for statistical analysis of fMRI data (Tara Madhyastha) [[video]](https://www.youtube.com/watch?v=sdbkWvFhTZ0)
+	* [15:00] [Synthesizing fMRI using generative adversarial networks: cognitive neuroscience applications, promises and pitfalls](./slides/Koyejo-Neurohackademy2018.pdf) (Sanmi Koyejo) [[video]](https://www.youtube.com/watch?v=iUyWMUJ-BHE)
+	* [17:00] Introduction to Brainhacking (Cameron Craddock) [[video]](https://www.youtube.com/watch?v=QJ98QhX3cb0)
 

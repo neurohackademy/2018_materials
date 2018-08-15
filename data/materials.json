@@ -281,6 +281,7 @@
   {
     "title": "Machine Learning in Neuroimaging",
     "instructor": "Gael Varoquaux",
+    "video": "https://www.youtube.com/watch?v=qyDv2bp-Vr8",
     "date": "08/06/2018",
     "time": "09:00",
     "duration": 180,
@@ -289,6 +290,7 @@
   {
     "title": "R for statistical analysis of fMRI data",
     "instructor": "Tara Madhyastha",
+    "video": "https://www.youtube.com/watch?v=sdbkWvFhTZ0",
     "date": "08/06/2018",
     "time": "13:00",
     "duration": 90,
@@ -298,14 +300,16 @@
     "title": "Synthesizing fMRI using generative adversarial networks: cognitive neuroscience applications, promises and pitfalls",
     "instructor": "Sanmi Koyejo",
     "slides": "./slides/Koyejo-Neurohackademy2018.pdf",
+    "video": "https://www.youtube.com/watch?v=iUyWMUJ-BHE",
     "date": "08/06/2018",
     "time": "15:00",
     "duration": 90,
     "desc": ""
   },
   {
-    "title": "Brainhacking 101",
+    "title": "Introduction to Brainhacking",
     "instructor": "Cameron Craddock",
+    "video": "https://www.youtube.com/watch?v=QJ98QhX3cb0",
     "date": "08/06/2018",
     "time": "17:00",
     "duration": 60,
