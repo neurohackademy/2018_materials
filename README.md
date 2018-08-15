@@ -1,8 +1,7 @@
 # Neurohackademy 2018 course materials
 
-This repository contains (or will eventually contain) links and descriptions of all publicly shareable materials, code, data, etc. used by instructors at Neurohackademy 2018. The ordering of lectures and tutorials roughly follows the chronology of the course.
+This repository contains links and descriptions of all publicly shareable materials, code, data, etc. used by instructors at Neurohackademy 2018. The ordering of lectures and tutorials follows the chronology of the course.
 
-# Table of Contents
 * Day 1 (07/30/2018)
 	* [09:00] [Introduction to Neurohackademy](https://neurohackademy.github.io/introduction-to-nh/) (Ariel Rokem)
 	* [10:30] [Reproducibility in fMRI: What is the problem?](http://neurohackademy.org/wp-content/uploads/2018/02/Reproducibility_NHW2018.pdf) (Russ Poldrack)
