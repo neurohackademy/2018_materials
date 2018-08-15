@@ -264,6 +264,7 @@
   {
     "title": "AllenSDK and the Allen Brain Observatory",
     "instructor": "Nicolas Cain and Justin Kiggins",
+    "video": "https://www.youtube.com/watch?v=n6rCVRlqT58",
     "slides": "./slides/AIBS.pdf",
     "date": "08/03/2018",
     "time": "15:00",
@@ -273,6 +274,7 @@
   {
     "title": "P-values and Reproducibility Issues",
     "instructor": "JB Poline",
+    "video": "https://www.youtube.com/watch?v=sbCpiU6oBMQ",
     "date": "08/03/2018",
     "time": "17:00",
     "duration": 60,

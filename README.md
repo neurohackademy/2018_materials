@@ -37,8 +37,8 @@ This repository contains links and descriptions of all publicly shareable materi
 * Day 5 (08/03/2018)
 	* [09:00] [Predictive models using object-oriented, interactive analysis in Matlab: Tools and application to pain](https://canlab.github.io/walkthroughs/) (Tor Wager) [[repo]](https://github.com/canlab/CanlabCore) [[video]](https://www.youtube.com/watch?v=p5cwODVsqgg)
 	* [13:00] [Finding low-dimensional structure in large-scale neural recordings](./slides/Dyer_DimReduction.pdf) (Eva Dyer) [[video]](https://www.youtube.com/watch?v=cQgnnBK08B0)
-	* [15:00] [AllenSDK and the Allen Brain Observatory](./slides/AIBS.pdf) (Nicolas Cain and Justin Kiggins)
-	* [17:00] P-values and Reproducibility Issues (JB Poline)
+	* [15:00] [AllenSDK and the Allen Brain Observatory](./slides/AIBS.pdf) (Nicolas Cain and Justin Kiggins) [[video]](https://www.youtube.com/watch?v=n6rCVRlqT58)
+	* [17:00] P-values and Reproducibility Issues (JB Poline) [[video]](https://www.youtube.com/watch?v=sbCpiU6oBMQ)
 
 * Day 6 (08/06/2018)
 	* [09:00] Machine Learning in Neuroimaging (Gael Varoquaux) [[video]](https://www.youtube.com/watch?v=qyDv2bp-Vr8)
